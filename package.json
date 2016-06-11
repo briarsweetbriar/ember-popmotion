@@ -1,7 +1,7 @@
 {
   "name": "ember-popmotion",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "5.0.11",
+  "description": "An Ember.js wrapper for the Popmotion animation library.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/null-null-null/ember-popmotion",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -40,7 +40,9 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "popmotion",
+    "animation"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"

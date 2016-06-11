@@ -1,26 +1,16 @@
-# Ember-popmotion
+[![npm version](https://badge.fury.io/js/ember-popmotion.svg)](https://badge.fury.io/js/ember-popmotion)
+[![Build Status](https://travis-ci.org/null-null-null/ember-popmotion.svg?branch=master)](https://travis-ci.org/null-null-null/ember-popmotion)
 
-This README outlines the details of collaborating on this Ember addon.
+# ember-popmotion
+
+A simple Ember.js wrapper for the innovative [Popmotion](https://popmotion.io/) animation library.
+
+Note: The `ember-popmotion` version number tracks the `popmotion` version.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+`ember install ember-popmotion`
 
-## Running
+## Usage
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
+After installing, you'll have access to the global `motion` namespace. For more instructions, consult the [Popmotion Guides](https://popmotion.io/guides/basics/get-started/).
