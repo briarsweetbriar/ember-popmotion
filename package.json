@@ -1,6 +1,6 @@
 {
   "name": "ember-popmotion",
-  "version": "5.0.11b",
+  "version": "5.0.11c",
   "description": "An Ember.js wrapper for the Popmotion animation library.",
   "directories": {
     "doc": "doc",
