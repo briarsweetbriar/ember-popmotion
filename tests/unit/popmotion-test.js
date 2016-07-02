@@ -1,3 +1,4 @@
+import motion from 'ember-popmotion';
 import { module, test } from 'qunit';
 
 module('Unit | popmotion');

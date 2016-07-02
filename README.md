@@ -13,4 +13,10 @@ Note: The `ember-popmotion` version number tracks the `popmotion` version.
 
 ## Usage
 
-After installing, you'll have access to the global `motion` namespace. For more instructions, consult the [Popmotion Guides](https://popmotion.io/guides/basics/get-started/).
+```js
+import motion from 'ember-popmotion';
+
+motion.tween();
+```
+
+For more instructions, consult the [Popmotion Guides](https://popmotion.io/guides/basics/get-started/).
